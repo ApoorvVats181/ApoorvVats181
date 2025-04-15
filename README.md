@@ -27,35 +27,6 @@ With expertise in **Python**, **R**, **SQL**, and **PySpark**, along with visual
 
 ---
 
-## 🔍 What I Do
-
-- 🏥 Develop ML and time-series models for mental health diagnostics and clinical research  
-- 🤖 Build LLM-based research tools and RAG pipelines for real-time insights  
-- 📈 Apply statistical models (LCGA, regression, PCA) using R and Python  
-- ☁️ Deploy ML pipelines using AWS (Lambda, S3) and big data tools like PySpark  
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages & Databases:** Python, R, SQL, MongoDB, C++, Java  
-**ML & DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
-**NLP/GenAI:** OpenAI API, Hugging Face, LangChain, ChromaDB, NLTK, SpaCy  
-**Cloud & Big Data:** AWS (S3, Lambda, EC2), PySpark  
-**Visualization:** Tableau, Power BI, Plotly, Seaborn  
-**Other:** Gradio, Streamlit, GitHub, MS Excel
-
----
-
-## 📚 Publications
-
-- 🧠 *[An Autonomous Dementia Prediction Method using Machine Learning Models](https://link.springer.com/chapter/10.1007/978-981-16-5689-7_25)* – Springer, ICDIS 2021  
-- 🦠 *[A Robust System for Detection of Pneumonia using Transfer Learning](https://link.springer.com/chapter/10.1007/978-981-16-7018-3_50)* – Springer, MRCN 2021  
-- 💼 *[Prediction of E-Signing of Loan Based on Financial Stats of Applicant using ML](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003207856-9/predictions-loan-signing-based-financial-status-applicants-using-machine-learning-apoorv-vats-rashi-singh-geetanjali-rathee-hemraj-saini)* – CRC (Taylor & Francis)
-
----
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -108,6 +79,36 @@ With expertise in **Python**, **R**, **SQL**, and **PySpark**, along with visual
 </p>
 
 ---
+
+## 🔍 What I Do
+
+- 🏥 Develop ML and time-series models for mental health diagnostics and clinical research  
+- 🤖 Build LLM-based research tools and RAG pipelines for real-time insights  
+- 📈 Apply statistical models (LCGA, regression, PCA) using R and Python  
+- ☁️ Deploy ML pipelines using AWS (Lambda, S3) and big data tools like PySpark  
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages & Databases:** Python, R, SQL, MongoDB, C++, Java  
+**ML & DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
+**NLP/GenAI:** OpenAI API, Hugging Face, LangChain, ChromaDB, NLTK, SpaCy  
+**Cloud & Big Data:** AWS (S3, Lambda, EC2), PySpark  
+**Visualization:** Tableau, Power BI, Plotly, Seaborn  
+**Other:** Gradio, Streamlit, GitHub, MS Excel
+
+---
+
+## 📚 Publications
+
+- 🧠 *[An Autonomous Dementia Prediction Method using Machine Learning Models](https://link.springer.com/chapter/10.1007/978-981-16-5689-7_25)* – Springer, ICDIS 2021  
+- 🦠 *[A Robust System for Detection of Pneumonia using Transfer Learning](https://link.springer.com/chapter/10.1007/978-981-16-7018-3_50)* – Springer, MRCN 2021  
+- 💼 *[Prediction of E-Signing of Loan Based on Financial Stats of Applicant using ML](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003207856-9/predictions-loan-signing-based-financial-status-applicants-using-machine-learning-apoorv-vats-rashi-singh-geetanjali-rathee-hemraj-saini)* – CRC (Taylor & Francis)
+
+---
+
+
 
 ## 📫 Let's Connect
 

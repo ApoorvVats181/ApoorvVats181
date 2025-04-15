@@ -8,9 +8,6 @@
 ---
 
 ## 🧠 About Me <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Hi+I'm+Apoorv+Vats;ML+%26+NLP+Engineer+from+Boston;GenAI+%7C+LLMs+%7C+Healthcare+AI" alt="Typing SVG" />
-</p>
-
 
 I'm a data-driven problem solver passionate about applying **machine learning, NLP, and generative AI** to real-world problems. With experience in **healthcare AI, LLM applications, and predictive modeling**, I specialize in building end-to-end ML systems, optimizing data pipelines, and developing insightful analytics solutions.
 

@@ -50,17 +50,6 @@ Currently, I work at **Massachusetts General Hospital (Harvard Medical School)**
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/apoorvvats" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/apoorv.vats18" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 
 ## 🛠️ Tech Stack
 
@@ -111,4 +100,17 @@ Currently, I work at **Massachusetts General Hospital (Harvard Medical School)**
   <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20Excel-Data Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/apoorvvats" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/apoorv.vats18" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>

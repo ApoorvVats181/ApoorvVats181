@@ -3,7 +3,7 @@
 # Apoorv Vats 
 
 🎓 Machine Learning & NLP Engineer | 📊 Data Scientist | 🧠 GenAI Enthusiast  
-📍 Boston, MA | 🧪 Researcher at Massachusetts General Hospital (Harvard Medical School)
+📍 Boston, MA 
 
 ---
 
@@ -11,11 +11,9 @@
 
 I'm a **data-driven problem solver** passionate about applying **machine learning**, **NLP**, and **generative AI** to real-world challenges. With hands-on experience in deploying **large language models** and building **end-to-end ML systems**, I specialize in transforming raw data into **intelligent, actionable solutions**. I have a strong command of tools like **OpenAI**, **Hugging Face**, and **LangChain**, and enjoy working at the intersection of **AI innovation** and **practical impact**.
 
-Currently, I work as a **Data Science Research Assistant at Massachusetts General Hospital (Harvard Medical School)**, where I leverage **time-series modeling**, **predictive analytics**, and **statistical techniques** to extract clinical insights. My recent work focuses on **mental health prediction** and **patient trajectory modeling**, contributing to **data-driven advancements in healthcare**.
+My background spans **data analytics**, **fraud detection**, and **applied ML research**. I bring a deep understanding of **model development**, **data engineering**, and **optimization techniques**. Whether it's building **scalable pipelines**, **engineering features** from complex datasets, or applying **deep learning models**, I strive to deliver **robust solutions grounded in real-world value**.
 
-My background spans **healthcare analytics**, **fraud detection**, and **applied ML research**. I bring a deep understanding of **model development**, **data engineering**, and **optimization techniques**. Whether it's building **scalable pipelines**, **engineering features** from complex datasets, or applying **deep learning models**, I strive to deliver **robust solutions grounded in real-world value**.
-
-With expertise in **Python**, **R**, **SQL**, and **PySpark**, along with visualization tools like **Tableau** and **Power BI**, I’m always exploring new techniques to stay on the **cutting edge of AI**. I'm actively seeking **ML Engineer** or **GenAI-focused roles** where I can **drive innovation** and help shape the future of **intelligent systems**.
+With expertise in **Python**, **R**, **SQL**, and **PySpark**, along with visualization tools like **Tableau** and **Power BI**, I’m always exploring new techniques to stay on the **cutting edge of AI**.
 
 
 ---

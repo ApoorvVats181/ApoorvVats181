@@ -3,7 +3,6 @@
 # Apoorv Vats 
 
 🎓 Machine Learning & NLP Engineer | 📊 Data Scientist | 🧠 GenAI Enthusiast  
-📍 Boston, MA 
 
 ---
 
